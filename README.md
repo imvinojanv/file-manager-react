@@ -2,6 +2,8 @@
 
 File manager application with React (Typescript), Vite, MUI, Zustand, React Dropzone, and Express server.
 
+[![Banner](https://ik.imagekit.io/vinojan/Personal/file-manager-react.png?updatedAt=1728130419034 "Banner")](https://github.com/imvinojanv)
+
 ## Requirements
 
 - Node.js (version 18 or higher)
